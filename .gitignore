@@ -12,3 +12,6 @@ Thumbs.db
 
 # Linux specific
 .directory
+
+# Firebase Service Key
+/backend/quotes-468b4-firebase-adminsdk-ivmws-c12f7217db.json
